@@ -8,7 +8,7 @@ Description: This endpoint queues an email for sending. The email details such a
 
 Request Payload (JSON):
 {
-  "to": "sakshichalpe51@gmail.com",
+  "to": "abc@gmail.com",
   "from": "xyz@gmail.com",
   "subject": "Testing",
   "body": "I am Queen"
